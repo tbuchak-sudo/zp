@@ -1,0 +1,7 @@
+{
+  "name": "Bader Зарплата",
+  "description": "Розрахунок заробітної плати, премій та виплат для працівників Bader з імпортом табеля",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
